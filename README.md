@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alymdna
-- 🌱 I’m currently working in a hospital
-- 📫 How to reach me: alyssagailm@gmail.com or thru linkedin 
+- 🌱 I am currently working 
+- 📫 How to reach me: alyssagailm@gmail.com or alymdna@gmail.com
 
 <!---
 Alymdna/Alymdna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
